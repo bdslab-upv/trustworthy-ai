@@ -23,7 +23,7 @@ If you use this code please cite:
 - **Version**: 1.0.0
 - **Authors**: Carlos de Manuel Vicente (UPV), Carlos Sáez (UPV)
 
-Copyright: 2024 - Biomedical Data Science Lab, Universitat Politècnica de Valècia, Spain (UPV)
+Copyright: 2024 - Biomedical Data Science Lab, Universitat Politècnica de València, Spain (UPV)
 
 If you are interested in collaborating in this work please [contact us](mailto:carsaesi@upv.es).
 
