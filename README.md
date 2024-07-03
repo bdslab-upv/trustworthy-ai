@@ -7,6 +7,7 @@ The following figure shows the proposed workflow to achieve a trustworthy AI. Th
 <img src="https://github.com/bdslab-upv/trustworthy-ai/blob/main/data/TAI_Matrix.png">
 _Methods for achieving the trustworthy AI requirements across all lifecycle phases.
 _
+
 ## How to use it
 1. Download the whole repository.
 2. Choose one dataset.
