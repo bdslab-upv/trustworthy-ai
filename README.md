@@ -13,6 +13,7 @@ The following figure shows the proposed workflow to achieve a trustworthy AI. Th
 2. Choose one dataset.
 3. Look at the methodology proposed for each requirement in its single notebook `.ipynb`.
 4. Apply the methods to your specific dataset.
+
 It is only necessary to modify and adapt the Data Collection and Metadata script in order to incorporate specific information.
 
 ## Citation
