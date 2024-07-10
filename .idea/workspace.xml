@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="df4be820-ffcf-4019-b98b-8ff77f2e5e61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/trustworthy-ai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/trustworthy-ai.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset Diabetes/DIA_Data_Collection_and_Metadata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Diabetes/DIA_Data_Collection_and_Metadata.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset Diabetes/DIA_Diversity,_non-discrimination_and_fairness.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Diabetes/DIA_Diversity_non-discrimination_and_fairness.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dataset Diabetes/DIA_Privacy_and_data_governance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Diabetes/DIA_Privacy_and_data_governance.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dataset Diabetes/DIA_Technical-robustness_and_safety.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Diabetes/DIA_Technical-robustness_and_safety.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dataset Diabetes/DIA_Transparency.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Diabetes/DIA_Transparency.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset Heart Disease/HD _Data_Collection_and_Metadata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Heart Disease/HD _Data_Collection_and_Metadata.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset Heart Disease/HD_Diversity,_non-discrimination_and_fairness.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Heart Disease/HD_Diversity,_non-discrimination_and_fairness.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset Heart Disease/HD_Privacy_and_data_governance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Heart Disease/HD_Privacy_and_data_governance.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset Heart Disease/HD_Technical-robustness_and_safety.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Heart Disease/HD_Technical-robustness_and_safety.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset Heart Disease/HD_Transparency.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset Heart Disease/HD_Transparency.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +23,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ieabLKe4Nzi14kHPxwryKDp318" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,8 +37,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ravn/proyectos_IBIME/trustworthy-ai/data/bdslab.png",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -49,7 +65,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719853567378</updated>
+      <workItem from="1720533474636" duration="8477000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/ravn/proyectos_IBIME/trustworthy-ai/Dataset Diabetes/DIA_Diversity,_non-discrimination_and_fairness.ipynb</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

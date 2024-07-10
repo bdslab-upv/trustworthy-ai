@@ -1,0 +1,13 @@
+pandas
+numpy
+openpyxl
+notebook
+python-dotenv
+matplotlib
+scikit-learn
+seaborn
+imblearn
+pca
+prince
+plotly
+shap
