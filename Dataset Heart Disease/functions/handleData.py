@@ -19,7 +19,7 @@ class handleData(BaseEstimator, TransformerMixin):
 
         preprocessor = ColumnTransformer(
             transformers=[
-                ('num', 'passthrough', self.feat_num),  # 'passthrough' significa que las características numéricas no serán transformadas
+                ('num', 'passthrough', self.feat_num),  
                 ('cat', OneHotEncoder(handle_unknown='ignore'), self.feat_cat)
             ])
 

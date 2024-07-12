@@ -14,10 +14,12 @@ class handleData(BaseEstimator, TransformerMixin):
         
     
     def encode(self, X):
+        X[self.feat_num] = X[self.feat_num].apply(pd.to_numeric, errors='coerce') # Ensure numerical columns are numeric
+        X[self.feat_cat] = X[self.feat_cat].astype(str) # Ensure categorical columns are strings
 
         preprocessor = ColumnTransformer(
             transformers=[
-                ('num', 'passthrough', self.feat_num),  # 'passthrough' significa que las características numéricas no serán transformadas
+                ('num', 'passthrough', self.feat_num),  
                 ('cat', OneHotEncoder(handle_unknown='ignore'), self.feat_cat)
             ])
 
