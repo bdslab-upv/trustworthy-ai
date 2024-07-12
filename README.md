@@ -19,7 +19,7 @@ It is only necessary to modify and adapt the Data Collection and Metadata script
 ## Citation
 If you use this code please cite:
 
-<blockquote style='font-size:14px'> Carlos de Manuel, David Fernández-Narro, Vicent Blanes-Selva, Juan M García-Gómez, Carlos Sáez. Design and implementation of a Trustworthy AI development process in Health.</blockquote>
+<blockquote style='font-size:14px'> Carlos de Manuel, David Fernández-Narro, Vicent Blanes-Selva, Juan M García-Gómez, Carlos Sáez. A Development Framework for Trustworthy Artificial Intelligence in Health with Example Code Pipelines.</blockquote>
 
 ## Credits
 - **Version**: 1.0.0
