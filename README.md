@@ -18,13 +18,16 @@ The "Diabetes Dataset" and "Heart Disease Dataset" folders contain an example wi
 
 It is only necessary to modify and adapt the Data Collection and Metadata script in order to incorporate specific information.
 
+## Checklist
+The "Checklist" folder includes a checklist to evaluate the implementation of the proposed technical requirements in health AI projects, which, as the TAI matrix, remains extensible.
+
 ## Citation
 If you use this methodology and/or its code please cite:
 
 <blockquote style='font-size:14px'> De-Manuel-Vicente, C., Fernández-Narro, D., Blanes-Selva, V., García-Gómez, J. M., & Sáez, C. (2025). A Trustworthy Health AI Development Framework with Example Code Pipelines. Studies in Health Technology and Informatics, 332, 180–184. https://doi.org/10.3233/SHTI251522 </blockquote>
 
 ## Credits
-- **Version**: 1.0.0
+- **Version**: 1.0.1
 - **Authors**: Carlos de Manuel Vicente (UPV), David Fernández-Narro (UPV), Vicent Blanes-Selva (UPV), Juan M García-Gómez (UPV), [Carlos Sáez](mailto:carsaesi@upv.es) (UPV).
 
 Copyright: 2024 - Biomedical Data Science Lab, Institute of Information and Communication Technologies (ITACA), Universitat Politècnica de València, Spain (UPV)
