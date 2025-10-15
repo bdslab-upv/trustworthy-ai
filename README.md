@@ -1,14 +1,16 @@
 # Trustworthy AI
-A semi-automated pipeline to enable trustworthy AI. We intend to address the problem of realizing a trustworthy system using technical methods.
+A reference methodology and semi-automated code pipelines for developing trustworthy AI systems in health. This framework aligns with the European Ethics Guidelines for Trustworthy AI and supports compliance with the EU AI Act.
 
-## TAI Matrix
-The following figure shows the proposed workflow to achieve a trustworthy AI. The "Diabetes Dataset" and "Heart Disease Dataset" folders contain an example with different datasets of the methodology. For each dataset, there is a notebook per requirement so that anyone can consult the practical application of the methodology.
+## Trustworthy AI Matrix (TAI Matrix)
+The following figure shows the proposed workflow to achieve a trustworthy AI.
 
 <img src="https://github.com/bdslab-upv/trustworthy-ai/blob/main/data/TAI_Matrix.png">
 
 *Methods for achieving the trustworthy AI requirements across all lifecycle phases.*
 
-## How to use it
+## How to use the example code pipelines
+The "Diabetes Dataset" and "Heart Disease Dataset" folders contain an example with different datasets of the methodology. For each dataset, there is a notebook per requirement so that anyone can consult the practical application of the methodology.
+
 1. Download the whole repository.
 2. Choose one dataset.
 3. Look at the methodology proposed for each requirement in its single notebook `.ipynb`.
@@ -17,15 +19,15 @@ The following figure shows the proposed workflow to achieve a trustworthy AI. Th
 It is only necessary to modify and adapt the Data Collection and Metadata script in order to incorporate specific information.
 
 ## Citation
-If you use this code please cite:
+If you use this methodology and/or its code please cite:
 
-<blockquote style='font-size:14px'> Carlos de Manuel, David Fernández-Narro, Vicent Blanes-Selva, Juan M García-Gómez, Carlos Sáez. A Development Framework for Trustworthy Artificial Intelligence in Health with Example Code Pipelines.</blockquote>
+<blockquote style='font-size:14px'> De-Manuel-Vicente, C., Fernández-Narro, D., Blanes-Selva, V., García-Gómez, J. M., & Sáez, C. (2025). A Trustworthy Health AI Development Framework with Example Code Pipelines. Studies in Health Technology and Informatics, 332, 180–184. https://doi.org/10.3233/SHTI251522 </blockquote>
 
 ## Credits
 - **Version**: 1.0.0
-- **Authors**: Carlos de Manuel Vicente (UPV), David Fernández-Narro (UPV), Vicent Blanes-Selva (UPV), Juan M García-Gómez (UPV), Carlos Sáez (UPV).
+- **Authors**: Carlos de Manuel Vicente (UPV), David Fernández-Narro (UPV), Vicent Blanes-Selva (UPV), Juan M García-Gómez (UPV), [Carlos Sáez](mailto:carsaesi@upv.es) (UPV).
 
-Copyright: 2024 - Biomedical Data Science Lab, Universitat Politècnica de València, Spain (UPV)
+Copyright: 2024 - Biomedical Data Science Lab, Institute of Information and Communication Technologies (ITACA), Universitat Politècnica de València, Spain (UPV)
 
 If you are interested in collaborating in this work please [contact us](mailto:carsaesi@upv.es).
 
