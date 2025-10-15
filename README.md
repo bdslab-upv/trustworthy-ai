@@ -1,8 +1,8 @@
-# Trustworthy AI
-A reference methodology and semi-automated code pipelines for developing trustworthy AI systems in health. This framework aligns with the European Ethics Guidelines for Trustworthy AI and supports compliance with the EU AI Act.
+# Trustworthy AI development framework (TAIDEV)
+TAIDEV is a reference methodology and semi-automated code pipelines for developing trustworthy AI systems in health. This framework aligns with the European Ethics Guidelines for Trustworthy AI and supports compliance with the EU AI Act.
 
 ## Trustworthy AI Matrix (TAI Matrix)
-The following figure shows the proposed workflow to achieve a trustworthy AI.
+The methodology core is a TAI matrix that classifies technical methods addressing EU guideline for Trustworthy AI requirements (privacy and data governance; diversity, non-discrimination and fairness; transparency; and technical robustness and safety) across the different AI lifecycle stages (data preparation; model development, deployment and use, and model management)
 
 <img src="https://github.com/bdslab-upv/trustworthy-ai/blob/main/data/TAI_Matrix.png">
 
