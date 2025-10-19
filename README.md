@@ -24,13 +24,19 @@ The "Checklist" folder includes a checklist to evaluate the implementation of th
 ## Citation
 If you use this methodology and/or its code please cite:
 
-<blockquote style='font-size:14px'> De-Manuel-Vicente, C., Fernández-Narro, D., Blanes-Selva, V., García-Gómez, J. M., & Sáez, C. (2025). A Trustworthy Health AI Development Framework with Example Code Pipelines. Studies in Health Technology and Informatics, 332, 180–184. https://doi.org/10.3233/SHTI251522 </blockquote>
+<blockquote style='font-size:14px'> Carlos de-Manuel-Vicente, David Fernández-Narro, Vicent Blanes-Selva, Juan M García-Gómez, Carlos Sáez (2025). A Trustworthy Health AI Development Framework with Example Code Pipelines. Studies in Health Technology and Informatics, 332, 180–184. https://doi.org/10.3233/SHTI251522 </blockquote>
+
+Preprint originally published in medRxiv:
+
+<blockquote style='font-size:14px'> Carlos de-Manuel-Vicente, David Fernández-Narro, Vicent Blanes-Selva, Juan M García-Gómez, Carlos Sáez (2024). A Development Framework for Trustworthy Artificial Intelligence in Health with Example Code Pipelines. medRxiv 2024.07.17.24310418; doi: https://doi.org/10.1101/2024.07.17.24310418 </blockquote>
 
 ## Credits
 - **Version**: 1.0.1
-- **Authors**: Carlos de Manuel Vicente (UPV), David Fernández-Narro (UPV), Vicent Blanes-Selva (UPV), Juan M García-Gómez (UPV), [Carlos Sáez](mailto:carsaesi@upv.es) (UPV).
+- **Authors**: Carlos de Manuel Vicente (UPV), David Fernández-Narro (UPV), Vicent Blanes-Selva (UPV), Juan M García-Gómez (UPV), [Carlos Sáez](mailto:carsaesi@upv.es) (UPV, Principal Investigator).
 
-Copyright: 2024 - Biomedical Data Science Lab, Institute of Information and Communication Technologies (ITACA), Universitat Politècnica de València, Spain (UPV)
+Work funded by Spanish *Agencia Estatal de Investigación, Proyectos de Generación de Conocimiento (PID2022-138636OA-I00), KINEMAI* and *Ministerio de Educación, Beca de colaboración (2023/12/00002)*.
+
+Copyright: 2024 - The Authors. Biomedical Data Science Lab, Institute of Information and Communication Technologies (ITACA), Universitat Politècnica de València, Spain (UPV)
 
 If you are interested in collaborating in this work please [contact us](mailto:carsaesi@upv.es).
 
